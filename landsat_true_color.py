@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 # LANDSAT 8 TRUE COLOR COMPOSITE - IMPROVED
 # ============================================
 
+#New Comment!!! WOOHOOO
+
 # Paths to RGB bands
 blue_path = r"C:\Users\ashy\Documents\lab1\DATA\LANDSAT\LC08_L1TP_017036_20260101_20260106_02_T1_B2.TIF"
 green_path = r"C:\Users\ashy\Documents\lab1\DATA\LANDSAT\LC08_L1TP_017036_20260101_20260106_02_T1_B3.TIF"
